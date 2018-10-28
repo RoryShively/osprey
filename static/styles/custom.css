@@ -1,0 +1,10 @@
+.social-media-icon {
+    height: 32px;
+    width: 32px;
+    margin: auto;
+
+}
+
+.social-media-icon svg {
+    fill: white;
+}
